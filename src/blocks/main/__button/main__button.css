@@ -3,6 +3,7 @@
     height: 35px;
     background: #a2a2d0;
     border-radius: 20px;
+    border: 1px solid lavenderblush;
     cursor: pointer;
 }
 
