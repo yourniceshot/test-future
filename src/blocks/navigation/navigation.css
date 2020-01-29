@@ -1,0 +1,12 @@
+@import url('./__arrow/navigation__arrow.css');
+@import url('./__text/navigation__text.css');
+
+.navigation {
+    width: 200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 100px);
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
