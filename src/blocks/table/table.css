@@ -1,0 +1,42 @@
+table {
+    table-layout: fixed;
+    width: 1200px;
+    border-collapse: collapse;
+    border: 3px solid purple;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+thead {
+    border: 3px solid purple;
+}
+
+th {
+    border: 3px solid purple;
+    height: 50px;
+}
+
+thead th:nth-child(1) {
+    width: 5%;
+}
+  
+  thead th:nth-child(2) {
+    width: 20%;
+}
+  
+  thead th:nth-child(3) {
+    width: 20%;
+}
+  
+  thead th:nth-child(4) {
+    width: 20%;
+}
+
+thead th:nth-child(5) {
+    width: 20%;
+}
+
+td {
+    border: 3px solid purple;
+    padding: 10px;
+}

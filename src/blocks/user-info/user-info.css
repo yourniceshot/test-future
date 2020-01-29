@@ -1,0 +1,9 @@
+@import url('./__item/user-info__item.css');
+
+.user-info {
+    width: 400px;
+    margin-left: 120px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+}

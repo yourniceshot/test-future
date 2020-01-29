@@ -1,0 +1,10 @@
+@import url('./__button/main__button.css');
+@import url('./__subtitle/main__subtitle.css');
+@import url('./__title/main__title.css');
+
+.main {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 200px;
+}

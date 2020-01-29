@@ -1,0 +1,11 @@
+page {
+    max-width: 1440px;
+    font-family: Helvetica;
+    margin: 0 auto;
+    position: relative;
+    color: darkblue;
+}
+
+body {
+    background: lavenderblush;
+}
